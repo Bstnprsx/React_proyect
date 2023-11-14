@@ -4,7 +4,7 @@ import { TableContainer, Table, TableHead, TableRow, TableCell, TableBody, Paper
 
 function DatosUno() {
   const data = {
-    labels: ['Lunes', 'Martes', 'Miércoles', 'Jueves', 'Viernes', 'Sábado', 'Domingo'],
+    labels: ['Holanda', 'Bolivia', 'Israel', 'Afganistan', 'Palestina', 'Chile', 'Alemania'],
     datasets: [
       {
         label: 'Ventas de la semana',
