@@ -39,6 +39,7 @@ function DatosUno() {
 
   return (
     <div style={{ padding: '50px', backgroundColor: 'white', display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
+      <h1>Hola!!!!</h1>
       <Bar data={data} options={options} />
       <TableContainer component={Paper} style={{ marginTop: '50px' }}>
         <Table aria-label="simple table">
